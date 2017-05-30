@@ -1,4 +1,4 @@
-# Website Performance Optimization portfolio project
+# Website Performance Optimization Portfolio Project
 
 ## How to run:
 Simply open up ```index.html``` in your favorite browser!
